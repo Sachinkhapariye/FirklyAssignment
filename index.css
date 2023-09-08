@@ -1,0 +1,99 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "General Sans";
+    box-sizing: border-box;
+}
+
+html,body{
+    width: 100%;
+    height: 100%;
+}
+
+
+#navbarScroll .nav-item a{
+    font-weight: 500;
+}
+
+.d-flex .form-control{
+    width: 25vw;
+}
+
+.d-flex .btn{
+    width: 5vw;
+}
+
+
+#OrederTraking .nav-item .nav-link {
+    
+}
+
+
+#Navthird{
+    background-color: #22333B;
+    padding-left: 3%;      
+}
+#Navthird #navbarSupportedContent ul li a{
+    color: white;
+    font-weight: 400;
+    font-size: 1.1vw;
+    padding-left: 10px;
+}
+
+#Navthird #navbarSupportedContent .dropdown-item{
+    color: rgb(73, 73, 73);
+    font-weight: 100;
+    font-size: small;
+
+}
+#Navthird #navbarSupportedContent .dropdown-menu{
+    width: 16vw;
+    height: 25vw;
+    top:3.2vw;
+    position: absolute;
+    background-color:  #EAE0D5;
+}
+h6{
+    color: black;
+    text-decoration:underline;
+}
+#image{
+    height:100%;
+    width: 100%;
+    position: absolute;
+    background-image: url(https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1400&q=80);
+    background-position:center;
+    background-size:fixed;
+}
+
+
+#text{
+    padding-top: 185px;
+    
+    padding-left: 3%;
+    color: #e0dbdb;
+    font-weight: 400;
+    
+}
+#text button{
+    background-color:  #EAE0D5;
+    border:none;
+    width: 15vw;
+    height: 3.5vw;
+    font-size: 1.5vw;
+    font-weight: 200;
+    color: #22333B;
+}
+#text h1{
+    font-size: 3vw;
+}
+#text h5{
+    font-size: 1.5vw;
+    font-weight: 100;
+}
+
+
+
+
+   
+ 
